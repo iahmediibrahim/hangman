@@ -8,4 +8,4 @@ word puzzle game.
 * fetching data from an api using async await.
 * using babel, webpack.
 
-<a href="https://aitcweb.github.io/hangman/public/">view app</a>
+<a href="https://swethusiast.github.io/hangman/public/">view app</a>
